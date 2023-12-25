@@ -3,5 +3,5 @@ This program is a food recipe recommender system with a hybrid method.
 
 Creator :
 - Muhammad Fadil Maulana Akbar
-- shafa Diva Syahira
+- Shafa Diva Syahira
 - Alifia Rizqi
